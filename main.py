@@ -4,15 +4,15 @@ import smtplib
 
 
 people= {
-        0:{"Name":"Jemali Beria", "Mail": "test.1804.beria.jemali@gmail.com"},
-        1:{"Name":"Nia Nozadze", "Mail": "test.1804.nianozadze7@gmail.com"},
-        2:{"Name":"Sandro Dekanoidze", "Mail": "test.1804.sandro.dekanoidze718@ens.tsu.edu.ge"},
-        3:{"Name":"Ana Kitesashvili", "Mail": "test.1804.ana.kitesashvili433@ens.tsu.edu.ge"},
-        4:{"Name":"Bacho Labadze", "Mail": "test.1804.bachukilabadze@gmail.com"},
-        5:{"Name":"Nika Iniashvili", "Mail": "test.1804.nika.iniashvili767@ens.tsu.edu.ge"},
-        6:{"Name":"Giorgi arutiniani", "Mail": "test.1804.J3loodf@protonmail.com"},
-        7:{"Name":"Ia Manizhashvili", "Mail": "test.1804.ia.manizhashvili@tsu.ge"},
-        8:{"Name":"Sabrina Fague", "Mail": "test.1804.sabrina.fague@tsu.ge"}
+        0:{"Name":"Jemali Beria", "Mail": "test.jemali@gmail.com"},
+        1:{"Name":"Nia Nozadze", "Mail": "test.nia@gmail.com"},
+        2:{"Name":"Sandro Dekanoidze", "Mail": "test.sandro@ens.tsu.edu.ge"},
+        3:{"Name":"Ana Kitesashvili", "Mail": "test.1ana@ens.tsu.edu.ge"},
+        4:{"Name":"Bacho Labadze", "Mail": "test.labadze@gmail.com"},
+        5:{"Name":"Nika Iniashvili", "Mail": "test.iniashvili767@ens.tsu.edu.ge"},
+        6:{"Name":"Giorgi arutiniani", "Mail": "test.J3loodf@mail.com"},
+        7:{"Name":"Ia Manizhashvili", "Mail": "test.manizhashvili@tsu.ge"},
+        8:{"Name":"Sabrina Fague", "Mail": "test.fague@tsu.ge"}
         }
 
 used=[]
